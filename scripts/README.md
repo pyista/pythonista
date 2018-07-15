@@ -20,6 +20,4 @@ Your contribution should update this README with the following information, and 
 
 Description
 
-Usage
-
 ## Scripts
