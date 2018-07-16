@@ -21,3 +21,6 @@ Your contribution should update this README with the following information, and 
 Description
 
 ## Scripts
+- Tic-Tac-Toe <br />
+ A cli-based tictactoe game to play with the computer. <br/>
+  [Rounak Vyas](http://www.github.com/itsron717)
