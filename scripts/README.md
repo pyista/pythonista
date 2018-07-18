@@ -16,9 +16,9 @@ This directory contains all the scripts in the repo.
 Your contribution should update this README with the following information, and in accordance with this template:
 
 ### script-name
-[Author's Name](#)
-
 Description
+
+[Author's Name](#)
 
 ## Scripts
 - Tic-Tac-Toe <br />
