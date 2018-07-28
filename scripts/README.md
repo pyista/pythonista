@@ -7,6 +7,7 @@ This directory contains all the scripts in the repo.
 
 ## Guidelines
 -  Each script should be in it's own seperate directory.
+- The script name must be same as the directory name of the script.
 -  All scripts should be invokable as `python main.py`. That is, the file that is to be called by the python interpreter should be named `main.py`.
 - If your script has dependencies, it should contain a `requirements.txt`.
 - Each script directory should contain a `README.md` file with installation and usage instructions, description, and any other information needed.
