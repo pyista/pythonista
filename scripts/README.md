@@ -23,6 +23,6 @@ Description
 [Author's Name](#)
 
 ## Scripts
-- tictactoe <br />
+-	tictactoe <br />
 	A cli-based tictactoe game to play with the computer. <br/>
 	[Rounak Vyas](http://www.github.com/itsron717)
