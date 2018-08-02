@@ -10,6 +10,7 @@ This directory contains all the scripts in the repo.
 - The script name must be same as the directory name of the script.
 -  All scripts should be invokable as `python main.py`. That is, the file that is to be called by the python interpreter should be named `main.py`.
 - If your script has dependencies, it should contain a `requirements.txt`.
+- All the scripts must follow [PEP 8 Style Guidelines](https://www.python.org/dev/peps/pep-0008/).
 - Each script directory should contain a `README.md` file with installation and usage instructions, description, and any other information needed.
 - You should also edit this README and add your script to it in accordance with the [template](#template).
 - If the script you are contributing is under version control, make sure you add it as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
