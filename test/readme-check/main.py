@@ -31,7 +31,7 @@ def get_titles_from_readme(readme):
     scripts = readme.split("<!-- scriptsstart -->")[1]
     scripts = scripts.split("<!-- scriptsstop -->")[0]
     scripts = scripts.split("-\t")[1:]
-    scripts = [script.split("\n")[0] for script in scripts]
+    scripts = [re.split("\n|<br>|<br\s?/>", script)[0] for script in scripts]
     scripts = [re.sub(r'[\n|\t]*', "", script) for script in scripts]
 
     return scripts

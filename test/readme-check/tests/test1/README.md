@@ -4,7 +4,7 @@ This is a sample README.md file to demonstrate and test the script. The director
 
 # Scripts
 <!-- scriptsstart -->
--	script1
+-	script1<br />
 	This is a dummy script
 	[Author 1](#)
 

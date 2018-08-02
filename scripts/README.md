@@ -24,7 +24,7 @@ Description
 
 ## Scripts
 <!-- scriptsstart -->
--	tictactoe
-	A cli-based tictactoe game to play with the computer.
+-	tictactoe<br />
+	A cli-based tictactoe game to play with the computer.<br />
 	[Rounak Vyas](http://www.github.com/itsron717)
 <!-- scriptsstop -->
