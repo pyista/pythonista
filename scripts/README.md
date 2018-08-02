@@ -23,8 +23,8 @@ This directory contains all the scripts in the repo.
 ## Template
 Your contribution should update this README with the following information, and in accordance with this template:
 
--	script-name
-	Description
+-	script-name<br />
+	Description<br />
 	[Author's Name](#)
 
 ## Scripts
