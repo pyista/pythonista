@@ -33,13 +33,14 @@ def get_titles_from_readme(readme):
     scripts = scripts.split("-\t")[1:]
     scripts = [re.split(r"\n|<br>|<br\s?/>", script)[0] for script in scripts]
     scripts = [re.sub(r'[\n|\t]*', "", script) for script in scripts]
-
+    
     return scripts
 
 
 def test_scripts(path_to_readme, path_to_scripts):
     titles = get_titles_from_readme(read_readme(path_to_readme))
     scripts = get_scripts_list(path_to_scripts)
+    
     return set(titles) == set(scripts)
 
 # TODO add docstring

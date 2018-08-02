@@ -17,8 +17,8 @@ This directory contains all the scripts in the repo.
 - When adding scripts to the `scripts/README.md` file, keep the following points in mind to prevent the CI status check from failing:
     * The template is followed perfectly.
 	* The name of the directory containing the script is the same as the name of the script in `scripts/README.md`.
-	* The comments that delimit the scripts section, i.e. `<!-- scriptsstart -->` and `<!-- scriptsstop -->` are not altered.
-	* You add your script **between** the `<!-- scriptsstart -->` and `<!-- scriptsstop -->` comments.
+	* The comments that delimit the scripts section are not altered.
+	* You add your script **between** the `scriptsstart` and `scriptsstop` comments.
 
 ## Template
 Your contribution should update this README with the following information, and in accordance with this template:
