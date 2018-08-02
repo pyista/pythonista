@@ -23,6 +23,8 @@ Description
 [Author's Name](#)
 
 ## Scripts
--	tictactoe <br />
-	A cli-based tictactoe game to play with the computer. <br/>
+<!-- scriptsstart -->
+-	tictactoe
+	A cli-based tictactoe game to play with the computer.
 	[Rounak Vyas](http://www.github.com/itsron717)
+<!-- scriptsstop -->
