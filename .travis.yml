@@ -1,0 +1,10 @@
+git:
+  depth: 3
+
+language: python
+
+python:
+  - "3.6"
+
+script:
+  - python ./test/readme-check/main.py ./scripts ./scripts
