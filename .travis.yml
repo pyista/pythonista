@@ -3,5 +3,8 @@ git:
 
 language: python
 
+python:
+  - "3.6"
+
 script:
-  - python ./test/test.py
+  - python ./test/readme-check/main.py 
