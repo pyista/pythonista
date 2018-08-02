@@ -73,8 +73,10 @@ if __name__ == "__main__":
         README_PATH = Path(sys.argv[1])
         SCRIPTS_PATH = Path(sys.argv[2])
         if test_scripts(README_PATH, SCRIPTS_PATH):
+            print("README check passed. Everything looks fine!")
             sys.exit(0)
         else:
+            print("README check failed. Ensure that you've updated the README.md file in the scripts folder and that the name of the script matches the name of the directory.")
             sys.exit(1)
     except Exception:
         print("Error: Something went wrong. Did you forget to give the path to README.md or the path to scripts?")
