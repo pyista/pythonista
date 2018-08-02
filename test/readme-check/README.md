@@ -14,7 +14,8 @@ In the use case of [pythonista](https://github.com/pyista/pythonista) (and in al
 
 ## Running Tests
 
-Since this is a minimal utility script, a couple of test cases have been written in the `run_tests` method in the script. These correspond to use cases that are shown in the `test1` and `test2` folders. You can run the tests by running `./test/readme-check/main.py test`.
+Since this is a minimal utility script, a couple of test cases have been written in the `run_tests` method in the script. These correspond to use cases that are shown in the `tests/test1` and `tests/test2` folders. You can run the tests by running:
+`$ ./test/readme-check/main.py test`.
 
 ## Author
 
