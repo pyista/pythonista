@@ -34,3 +34,9 @@ Your contribution should update this README with the following information, and 
 	A cli-based tictactoe game to play with the computer.<br />
 	[Rounak Vyas](http://www.github.com/itsron717)
 <!-- scriptsstop -->
+
+<!-- scriptsstart -->
+-	pyFirebase<br />
+	A script to send data from serial port to firebase.<br />
+	[Madhav Bahl](https://github.com/MadhavBahlMD)
+<!-- scriptsstop -->
