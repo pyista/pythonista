@@ -12,6 +12,10 @@ Pythonista is a repository of Python scripts that range from the silly, fun ones
 
 Detailed guidelines for contributing code can be found in `scripts/README.md`.
 
+**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github) 
+
+**Contributions that do not pass all status checks will not be accepted unless there's a very good reason to accept them**
+
 ## Contributing Documentation
 
 Being a collection of code from a bunch of people, it is very important that everything about Pythonista is well documented. Currently, the `README.md` file needs completion. You can check out the `TODO.md` file to see if there are any missing pieces of documentation that need work.
