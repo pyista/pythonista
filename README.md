@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phyyyl/pythonista/master/logo/pythonista-512.png" width="100" height="100" title="logo">
+</p>
+
 # pythonista
 
 [![Build Status](https://travis-ci.org/pyista/pythonista.svg?branch=master)](https://travis-ci.org/pyista/pythonista)
