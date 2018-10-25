@@ -1,6 +1,6 @@
 # readme-check
 
-This test ensures that every directory in the `scripts` folder has a corresponding entry in `scripts/README.md` and vice versa. This is to help contributors who forget to update the readme quickly realize their mistake and fix it.
+This script is a test written for the [pythonista](https://github.com/pyista/pythonista) repository. It ensures that every directory in the `scripts` folder has a corresponding entry in `scripts/README.md` and vice versa. This is to help contributors who forget to update the readme quickly realize their mistake and fix it.
 
 ## Usage
 
