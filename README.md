@@ -9,5 +9,3 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 <br/>
 Pythonista is a collection of Python scripts of all kinds - from simple hacks for automation to more complex tooling.
-
-![logo](https://raw.githubusercontent.com/phyyyl/pythonista/master/logo/pythonista-512.png)
