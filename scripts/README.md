@@ -33,4 +33,7 @@ Your contribution should update this README with the following information, and 
 -	tictactoe<br />
 	A cli-based tictactoe game to play with the computer.<br />
 	[Rounak Vyas](http://www.github.com/itsron717)
+-	Google Search<br />
+	A python program to search query on google.<br />
+	[Abhishek Mishra](http://www.github.com/abhishekmishragithub)
 <!-- scriptsstop -->
