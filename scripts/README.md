@@ -1,4 +1,4 @@
-This directory contains all the scripts in the repo. 
+This directory contains all the scripts in the repo.
 
 ## Contents
 1. [Guidelines](#guidelines)
@@ -33,4 +33,7 @@ Your contribution should update this README with the following information, and 
 -	tictactoe<br />
 	A cli-based tictactoe game to play with the computer.<br />
 	[Rounak Vyas](http://www.github.com/itsron717)
+-	pdf_merger<br />
+    	A pdf merger to combine multiple PDFs into a single PDF.<br />
+	[Anshul Hajare](https://github.com/AnshulH)
 <!-- scriptsstop -->
