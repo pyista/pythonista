@@ -36,4 +36,7 @@ Your contribution should update this README with the following information, and 
 -	pdf_merger<br />
     	A pdf merger to combine multiple PDFs into a single PDF.<br />
 	[Anshul Hajare](https://github.com/AnshulH)
+-	MusicPlayer<br />
+        A music player to select songs and play music.<br />
+        [Prathima Kadari](https://github.com/prathimacode-hub)
 <!-- scriptsstop -->
